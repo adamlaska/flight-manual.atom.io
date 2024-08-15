@@ -16,7 +16,7 @@ gem 'github-markdown', '~> 0.6.9'
 gem 'kramdown'
 gem 'kramdown-parser-gfm'
 
-gem 'activesupport', '~> 4.2'
+gem 'activesupport', '~> 5.2', '>= 5.2.4.3'
 gem 'rake'
 gem 'pry'
 gem 'pry-coolline'
